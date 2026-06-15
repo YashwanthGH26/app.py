@@ -1,5 +1,6 @@
-httpx==0.28.1
-google-genai==0.1.1
-langgraph==0.2.60
-langchain-core==0.3.35
-streamlit==1.32.0
+# Force cloud compatibility rules
+httpx
+google-genai
+langgraph
+langchain-core
+streamlit
