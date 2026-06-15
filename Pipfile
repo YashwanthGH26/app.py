@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+httpx = "*"
+google-genai = "*"
+langgraph = "*"
+langchain-core = "*"
+streamlit = "*"
+
+[requires]
+python_version = "3.14"
