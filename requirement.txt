@@ -4,3 +4,4 @@ google-genai
 langgraph
 langchain-core
 streamlit
+httpx
